@@ -1,0 +1,1 @@
+Nextflow-based pipeline for processing HiPore-C data (multiway Hi-C) from longread nanopore data. Creates Apache .parquet files for contact storage to aid mult-way analysis as an alternative to pairwise .hic and .mcool matrices.
